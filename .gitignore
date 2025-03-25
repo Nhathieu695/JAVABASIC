@@ -1,0 +1,23 @@
+# Bỏ qua thư mục build và output
+/bin/
+/build/
+/target/
+/out/
+
+# Bỏ qua tệp IDE
+.idea/
+.vscode/
+*.iml
+
+# Bỏ qua tệp biên dịch và phụ trợ
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Bỏ qua thư viện bên ngoài
+/lib/
+
+# Bỏ qua tệp môi trường
+.env
